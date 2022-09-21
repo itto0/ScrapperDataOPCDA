@@ -1,0 +1,13 @@
+{
+  "url": "Matrikon.OPC.Simulation.1",
+  "ip": "localhost",
+  "outputType": "file", //api,file,all
+  "outputApi": "http://localhost/",
+  "outputFile": "",
+  "parameter": [
+    "Random.Int1",
+    "Random.Int16",
+    "Random.Boolean",
+    "Random.String"
+  ]
+}

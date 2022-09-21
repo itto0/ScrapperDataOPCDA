@@ -1,0 +1,234 @@
+Error Log
+---------------------
+(15/08/2022 09:58:05) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:06) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:07) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:26) - CoCreateInstanceEx: The RPC server is unavailable.
+---------------------
+(15/08/2022 09:58:27) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:28) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:49) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 09:58:50) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:51) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:52) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:53) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:54) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:55) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:56) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:57) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:58:59) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:00) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:01) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:02) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:03) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:04) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:05) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:06) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:07) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:08) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:09) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:10) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:11) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:12) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:13) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:14) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:15) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:17) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:18) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:19) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:20) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:21) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:22) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:23) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:24) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:25) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:26) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:27) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:28) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:29) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:30) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:31) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:32) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:33) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:34) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:36) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:37) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:38) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:39) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:40) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:41) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:42) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:43) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:44) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:45) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:46) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:47) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:48) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:49) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:50) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:51) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:52) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:54) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:55) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:56) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:57) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:58) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 09:59:59) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:00) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:01) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:02) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:03) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:04) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:05) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:06) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:07) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:08) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:09) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:11) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:12) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:13) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:14) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 10:00:15) - Unable to initialize OPC DA client. It should run under MTA apartment state due to CoInitializeSecurity call. See http://www.pinvoke.net/default.aspx/ole32/CoInitializeSecurity.html for details.
+---------------------
+(15/08/2022 14:38:19) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 14:38:20) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 14:57:21) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 14:57:22) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:25:29) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:25:30) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:25:31) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:32) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:33) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:34) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:35) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:36) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:47) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:49) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:50) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:51) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(15/08/2022 15:26:52) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(18/08/2022 08:20:17) - CoCreateInstanceEx: The RPC server is unavailable.
+
+---------------------
+(18/08/2022 08:48:12) - One or more errors occurred.
